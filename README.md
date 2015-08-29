@@ -24,8 +24,7 @@ Web前端开发规范文档
 >
 > -   一些浏览器会将含有这些词的作为广告拦截，文件命名、ID、CLASS等所有命名避免以上词汇。
 > 
->     ``` `ad`、`ads`、`adv`、`banner`、`sponsor`、`gg`、`guangg`、`guanggao`等
->     ``` 
+>     `ad`、`ads`、`adv`、`banner`、`sponsor`、`gg`、`guangg`、`guanggao`等
 >
 
 ### html书写规范：
