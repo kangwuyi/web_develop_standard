@@ -159,7 +159,8 @@ Web前端开发规范文档
 >
 		-moz-border-radius: 15px; /* Firefox */
 		-webkit-border-radius: 15px; /* Safari和Chrome */
-		-o-border-radius: 15px; /* Opera 10.5+*/
+		-o-border-radius: 15px; 
+		border-radius: 15px; /* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 *//标准属性
 > -   使用选择器时，命名比较短的词汇或者缩写的不允许直接定义样式。
 >
 		.hd,.bd,.td{};//如这些命名
